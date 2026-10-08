@@ -2,16 +2,6 @@
 
 A comprehensive full-stack **School Management System** built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and **PostgreSQL** as the database. This application streamlines school operations including teacher management, student records, class scheduling, attendance tracking, and fee management.
 
-## 🚀 Live Demo
-
-[Add your live URL here once deployed]
-
-## 📸 Screenshots
-
-[Add screenshots here]
-
----
-
 ## ✨ Features
 
 ### 👨‍💼 Admin Dashboard
